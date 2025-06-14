@@ -1,0 +1,18 @@
+type: CoreBlock
+size: 2
+health: 50
+armor: 5
+unitType: alpha
+requirements: [
+ copper/1000
+]
+requiresCoreZone: true
+incinerateNonBuildable: true
+category: effect
+isFirstTier: true
+squareSprite: false
+alwaysUnlocked: true
+itemCapacity: 2500
+unitCapModifier: 15
+research: core-shard
+name: Mini Core
