@@ -1,5 +1,5 @@
 type: CoreBlock
-size: 2
+size: 1
 health: 50
 armor: 5
 unitType: alpha
